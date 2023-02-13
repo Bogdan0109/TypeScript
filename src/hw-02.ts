@@ -1,6 +1,6 @@
 // Приклад 1
 let age: number = 50;
-let name: string = "Max";
+let theName: string = "Max";
 let toggle: boolean = true;
 let empty: null = null;
 let notInitialize: undefined = undefined;
